@@ -6,4 +6,6 @@ I make this website using Django framework.Here, we can add blogs, delete blogs 
 
 ![List of Blogs](images/2.png)
 
+### This is after clicking on the read more button.
+
 ![View of Blog](images/3.png)
